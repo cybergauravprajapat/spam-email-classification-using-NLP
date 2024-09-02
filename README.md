@@ -1,5 +1,6 @@
 # spam email classification using NLP
 this project solve a big probleam , when a get a email and >>>>>>>>>>>
+![unnamed](https://github.com/user-attachments/assets/ef3ad3af-f449-488d-8919-077644dd7618)
 
 
 
